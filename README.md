@@ -13,5 +13,8 @@ https://datalens.yandex.cloud/ky4vw5ygai5s6-otchyot-po-prodazham?state=c4698cd25
 
 # Python visualisation
 ```
-
+Два графика
+Сравниение двух датасетов
+Круговая диаграмма
+Построение функции синуса
 ```
